@@ -1,5 +1,3 @@
----
-
 # Uploading Files with React.js and PHP to a Shared Host cPanel
 
 **Author:** Jessy Bandya
@@ -126,8 +124,6 @@ This guide will walk you through the process of uploading files using React.js f
 
 ## Conclusion
 
-You have successfully set up file uploading with React.js and PHP on a shared hosting environment with cPanel. Feel free to customize and expand upon this setup to suit your specific requirements.
 
----
 
 ##HAPPY CODING
